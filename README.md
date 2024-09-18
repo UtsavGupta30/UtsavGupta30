@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UtsavGupta30&label=Profile%20views&color=0e75b6&style=flat" alt="UtsavGupta30" /> </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtsavGupta30&theme=codeSTACKr)
 
