@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UtsavGupta30&theme=codeSTACKr)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=UtsavGupta30&theme=tokyonight_duo&hide_border=true&border_radius=22)](https://git.io/streak-stats)
 <!--
 **UtsavGupta30/UtsavGupta30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
